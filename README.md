@@ -64,20 +64,6 @@ available_books = library.list_available_books()
 print(available_books)
 ```
 
-### Running the Example
-
-To see a full demonstration of the library system in action, run:
-
-```bash
-python example.py
-```
-
-This will show various operations including:
-- Adding books and users
-- Borrowing and returning books
-- Listing available books
-- Viewing user borrowed books
-
 ## Classes and Methods
 
 ### Book Class
